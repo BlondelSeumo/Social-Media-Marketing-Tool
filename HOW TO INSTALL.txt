@@ -1,0 +1,16 @@
+1. Upload script.
+2. Create and import DATABASE.sql
+3. Edit .env file
+
+
+app.baseURL = 'https://domain.com'
+
+database.default.hostname = localhost
+database.default.database = YOUR_DB_NAME
+database.default.username = YOUR_DB_USERNAME
+database.default.password = YOUR_DB_PASSWORD
+
+
+4. Login details:
+login - admin
+password - 1234567890

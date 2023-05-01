@@ -1,0 +1,15 @@
+<?php return array (
+  'Set field HTML SELECTOR is beamer-notification at here:' => 'Set field HTML SELECTOR is beamer-notification at here:',
+  'Status' => 'Status',
+  'Enable' => 'Enable',
+  'Disable' => 'Disable',
+  'Beamer product id' => 'Beamer product id',
+  'Poupup ID' => 'Poupup ID',
+  'Display again (minute)' => 'Display again (minute)',
+  'Content' => 'Content',
+  'Save' => 'Save',
+  'Get Beamer product id at here:' => 'Get Beamer product id at here:',
+  'Important:' => 'Important:',
+  'Close' => 'Close',
+  'Notification' => 'Notification',
+);
